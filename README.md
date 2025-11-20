@@ -52,11 +52,7 @@ df_movies_clean.to_csv(os.path.join(output_dir, "movies_clean.csv"), index=False
 ```
 - Controllare `solution/requirements.txt` per le versioni delle librerie utilizzate.
 
-Autore e contatti
+Autore
 -----------------
 - Autore: Mangini Dario (progetto IUM)
 - Repository preparato per il corso/assignment di Interazione Uomo-Macchina.
-
-Licenza
--------
-Specificare qui la licenza scelta (es. MIT). Se non definita, aggiungere un file `LICENSE`.
