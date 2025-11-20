@@ -11,13 +11,6 @@ Contenuto rilevante
   - [solution/pulizia_fixed.ipynb](solution/pulizia_fixed.ipynb)
 - Requisiti Python:
   - [solution/requirements.txt](solution/requirements.txt)
-- Dati grezzi:
-  - [data/main_data/movies.csv](data/main_data/movies.csv)
-  - [data/main_data/crew.csv](data/main_data/crew.csv)
-  - [data/additional_data/rotten_tomatoes_reviews.csv](data/additional_data/rotten_tomatoes_reviews.csv)
-- Output prodotti:
-  - [output/movies_clean.csv](output/movies_clean.csv)
-  - mappe e visualizzazioni in [solution/](solution/)
 - Virtual environment (opzionale): [IUM/bin/python](IUM/bin/python)
 
 Requisiti
