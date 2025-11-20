@@ -1,6 +1,11 @@
 *.csv
 
-/IUM/
+# Ignora virtualenv
+venv/
+
+# Ignora cartella IUM
+IUM/
+
 
 # consigliati (opzionali)
 __pycache__/
